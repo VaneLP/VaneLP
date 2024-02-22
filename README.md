@@ -1,4 +1,4 @@
-# Hi 👋 My name is Vanessa
+Hi 👋 My name is Vanessa
 ========================
 
 ## Programadora Junior
