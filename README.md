@@ -9,6 +9,8 @@ Recién titulada en desarrollo de aplicaciones multiplataforma. ¡Con muchas gan
 *   🌍 I'm based in España
 *   ✉️ You can contact me at [vanessa-lopez9@hotmail.com](mailto:vanessa-lopez9@hotmail.com)
 *   🤝 I'm open to collaborating on Cualquier proyecto 😉
+
+  
    <a href="https://www.github.com/VaneLP" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/VaneLP?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
 ## Skills
